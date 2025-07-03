@@ -2,7 +2,7 @@
 
 A short exercise on webscraping, text parsing, data analysis and visualisation.
 
-The report is a Jupyter notebook: [Gen X macht in Deutschland Politik.ipynb]
+The report is a Jupyter notebook: [Gen X macht in Deutschland Politik.ipynb](Gen X macht in Deutschland Politik.ipynb)
 
 
 ## Demographics of German Bundestag
